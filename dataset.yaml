@@ -1,0 +1,4 @@
+train: /mnt/c/Data/2025/Bimbingan/Semester_7/Dataset_Video/data/clip/images
+val:   /mnt/c/Data/2025/Bimbingan/Semester_7/Dataset_Video/data/dataset/images
+names:
+  - person
